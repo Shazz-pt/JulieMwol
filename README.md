@@ -24,7 +24,7 @@ Project created by <a href="https://github.com/shazz-pt">shazz-pt</a> to make it
 <p align="center">
 <a href="https://github.com/shazz-pt/followers"><img title="Followers" src="https://img.shields.io/github/followers/shazz-pt?color=blue&style=flat-square"></a>
 <a href="https://github.com/shazz-pt/luttappy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/shazz-pt/luttappy?color=blue&style=flat-square"></a>
-<a href="https://github.com/shazz-pt/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shazz-pt/luttappy?color=blue&style=flat-square"></a>
+<a href="https://github.com/shazz-pt/luttappy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shazz-pt/luttappy?color=blue&style=flat-square"></a>
 <a href="https://github.com/shazz-pt/luttappy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/shazz-pt/luttappy?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
