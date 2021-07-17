@@ -62,7 +62,7 @@ $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
 $ git clone https://github.com/shazz-pt/luttappy
-$ cd JulieMwol
+$ cd luttappy
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
