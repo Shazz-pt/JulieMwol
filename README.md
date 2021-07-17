@@ -2,10 +2,10 @@
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/wYEBwAD.png" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="luttappy" src="https://img.shields.io/badge/luttappy-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/shazz-pt"><img title="Author" src="https://img.shields.io/badge/Author-shazz-pt/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/shazz-pt"><img title="Author" src="https://img.shields.io/badge/Author-shazz-pt/luttappy?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/shazz-pt">shazz-pt</a> to make it
 ----
 
   <p align="center">
-  <a href="httsp://github.com/shazz-pt/JulieMwol">
-    <img src="https://img.shields.io/github/repo-size/shazz-pt/JulieMwol?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/shazz-pt/luttappy">
+    <img src="https://img.shields.io/github/repo-size/shazz-pt/luttappy?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/shazz-pt/followers"><img title="Followers" src="https://img.shields.io/github/followers/shazz-pt?color=blue&style=flat-square"></a>
-<a href="https://github.com/shazz-pt/JulieMwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/shazz-pt/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/shazz-pt/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shazz-pt/JulieMwol?color=blue&style=flat-square"></a>
-<a href="https://github.com/shazz-pt/JulieMwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/shazz-pt/JulieMwol?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/shazz-pt/luttappy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/shazz-pt/luttappy?color=blue&style=flat-square"></a>
+<a href="https://github.com/shazz-pt/JulieMwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shazz-pt/luttappy?color=blue&style=flat-square"></a>
+<a href="https://github.com/shazz-pt/luttappy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/shazz-pt/luttappy?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -46,7 +46,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shazz-pt-Julie/Mwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shazz-pt-luttappy/luttappy)
      </div>
 <br>
 <br >
@@ -61,7 +61,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/shazz-pt/JulieMwol
+$ git clone https://github.com/shazz-pt/luttappy
 $ cd JulieMwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -71,8 +71,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/shazz-pt/JulieMwol
-$ cd JulieMwol
+$ git clone https://github.com/shazz-pt/luttappy
+$ cd luttappy
 $ chmod +x *
 $ npm i
 $ node qr.js
