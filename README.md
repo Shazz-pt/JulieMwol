@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/shazz-pt">shazz-pt</a> to make it public
+Project created by <a href="https://github.com/Shazz-pt">Shazz-pt</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/shazz-pt">shazz-pt</a> to make it
 ----
 
   <p align="center">
-  <a href="httsp://github.com/shazz-pt/luttappy">
-    <img src="https://img.shields.io/github/repo-size/shazz-pt/luttappy?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/Shazz-pt/luttappy">
+    <img src="https://img.shields.io/github/repo-size/Shazz-pt/luttappy?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/shazz-pt/followers"><img title="Followers" src="https://img.shields.io/github/followers/shazz-pt?color=blue&style=flat-square"></a>
-<a href="https://github.com/shazz-pt/luttappy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/shazz-pt/luttappy?color=blue&style=flat-square"></a>
-<a href="https://github.com/shazz-pt/luttappy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/shazz-pt/luttappy?color=blue&style=flat-square"></a>
-<a href="https://github.com/shazz-pt/luttappy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/shazz-pt/luttappy?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Shazz-pt/followers"><img title="Followers" src="https://img.shields.io/github/followers/Shazz-pt?color=blue&style=flat-square"></a>
+<a href="https://github.com/Shazz-pt/luttappy/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Shazz-pt/luttappy?color=blue&style=flat-square"></a>
+<a href="https://github.com/Shazz-pt/luttappy/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Shazz-pt/luttappy?color=blue&style=flat-square"></a>
+<a href="https://github.com/Shazz-pt/luttappy/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Shazz-pt/luttappy?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shazz-pt&repo=PublicBot&theme=nightowl)](https://github.com/shazz-pt/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shazz-pt&repo=PublicBot&theme=nightowl)](https://github.com/Shazz-pt/PublicBot)
   </div>
     
 ## Setup
@@ -46,7 +46,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shazz-pt-luttappy/luttappy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shazz-pt-luttappy/luttappy)
      </div>
 <br>
 <br >
@@ -61,7 +61,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/shazz-pt/luttappy
+$ git clone https://github.com/Shazz-pt/luttappy
 $ cd luttappy
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -71,7 +71,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/shazz-pt/luttappy
+$ git clone https://github.com/Shazz-pt/luttappy
 $ cd luttappy
 $ chmod +x *
 $ npm i
@@ -92,9 +92,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Shazz-pt](https://github.com/shazz-pt.png?size=100)](https://github.com/shazz-pt) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Shazz-pt](https://github.com/Shazz-pt.png?size=100)](https://github.com/Shazz-pt) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[shazz-pt](https://github.com/shazz-pt)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
+[Shazz-pt](https://github.com/Shazz-pt)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
